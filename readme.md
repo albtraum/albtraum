@@ -12,11 +12,14 @@
  <li> Workstation building
 
  # <b>WORK EXPERIENCE</b>
-  <li> Jan. 2020 – Jun. 2021 Korea Institution of Science and Technology (KIST)<br>
-  <li>     Extreme Material Research Center - Research Assistant<br>
+  <h5> Jan. 2020 – Jun. 2021</h5> 
+  <li> Korea Institution of Science and Technology (KIST)<br>
+  <li> Extreme Material Research Center - Research Assistant<br>
   <ul> <li>Improvement of computational speed using OpenCL; built Extreme Materials Research
        <li>Center homepage; built workstation servers for AI research; conducted AI-related projects 
   </ul>
+   
+  <h5> Nov. 2019 – Aug. 2020</h5> 
   <li> Woowa Youths Corp. 
   <li> B Mart Gangbuk Sub Center Operation Team - Team members
   <ul> <li>Computerized logistics management; gave feedbacks on the developing system to programmers 
