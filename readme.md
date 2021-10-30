@@ -7,7 +7,7 @@
  
  # <b>SKILLS</b>
 
- <li> Programming languages; C++, C, Python, javascript
+ <li> Programming languages; C++, C, Python, java
  <li> Frameworks; Tensorflow, Keras, jQuery
  <li> OS; Window, Linux - ubuntu
  <li> Database; MariaDB
