@@ -15,7 +15,8 @@
   <ul> <li>Improvement of computational speed using OpenCL; built Extreme Materials Research
        <li>Center homepage; built workstation servers for AI research; conducted AI-related projects 
   </ul>
- # <b>AWARD</b>
+   
+ #<b>AWARD</b>
   <li> Feb. 2021 Korean Scalp Status Image Idea Hackathon by Using AI - Grand Prize (KIDICO)
   <li> Feb. 2021 • AI&5G Idea Competition - Encouragement Prize KICS
   <li> Dec. 2020 • Essay Contest - Special Selection (ETOOS)
