@@ -29,8 +29,10 @@
   </ul>
    
  # <b>AWARD</b><br>
+  <li> Dec. 2021 • Metabus-based fintech hackathon - Encouragement Prize (KISA)
+  <li> Deb. 2021 • Best Paper Award - Silver Prize (KIIT)
   <li> Feb. 2021 • Korean Scalp Status Image Idea Hackathon by Using AI - Grand Prize (KIDICO)
-  <li> Feb. 2021 • AI&5G Idea Competition - Encouragement Prize KICS
+  <li> Feb. 2021 • AI&5G Idea Competition - Encouragement Prize (KICS)
   <li> Dec. 2020 • Essay Contest - Special Selection (ETOOS)
   <li> Oct. 2019 • Tourism App Development Contest - Encouragement Prize (KTO & SKT)
   <li> Dec. 2018 • Smartphone Film Contest - Grand Prize 
