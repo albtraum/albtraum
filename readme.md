@@ -5,7 +5,7 @@
   <img src="https://mblogthumb-phinf.pstatic.net/20141114_185/113outbreak_1415922986518U1gTh_GIF/tumblr_muq3d0Daey1s8dr5oo1_500.gif?type=w2" ></img>
 
 </div>
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falbtraum&count_bg=%2333F368&title_bg=%23555555&icon=tencentqq.svg&icon_color=%230B0B0B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falbtraum&count_bg=%2333F368&title_bg=%23555555&icon=tencentqq.svg&icon_color=%230B0B0B&title=hits&edge_flat=false"/></a>
  # <b>SKILLS</b><br>
 
  <li> Programming languages; C++, C, Python, java
