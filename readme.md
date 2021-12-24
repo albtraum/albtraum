@@ -6,6 +6,7 @@
 
 </div>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falbtraum&count_bg=%2333F368&title_bg=%23555555&icon=tencentqq.svg&icon_color=%230B0B0B&title=hits&edge_flat=false"/></a>
+<br>
  # <b>SKILLS</b><br>
 
  <li> Programming languages; C++, C, Python, java
